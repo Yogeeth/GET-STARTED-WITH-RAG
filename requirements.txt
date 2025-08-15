@@ -1,0 +1,12 @@
+pypdf
+langchain
+langchain-google-genai
+chromadb
+sentence-transformers
+transformers
+datasets
+huggingface_hub
+scikit-learn
+torch
+numpy
+matplotlib
