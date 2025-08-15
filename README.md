@@ -12,13 +12,13 @@ What you Will see:
 ├── 1.RAG and Hugging Face/  
 │ ├── 2024_Annual_Report.pdf(of LT Finance) # Sample document for RAG processing  
 │ ├── app.ipynb # Main application notebook  
-│ └── huggingface.ipynb # Hugging Face integration examples  
+│ └── huggingface.ipynb # Hugging Face Basics  
 ├── 2.AdvancedRAG/  
 │ ├── dpr.py # Dense Passage Retrieval implementation  
 │ ├── investor-presentation.pdf(of Microsoft) # Business document sample   
 │ └── rag_ranking.py # RAG ranking & scoring algorithms  
 ├── 3.MULTI MODAL RAG/    
-│ ├── data/ # Processed data storage  
+│ ├── data/ # Vector Data base
 │ ├── Images/ # Image assets for multimodal processing   
 │ ├── multi_ad.py # Multimodal ad content processing  
 │ └── multimodal.py # Core multimodal RAG implementation 
