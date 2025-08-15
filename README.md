@@ -1,8 +1,6 @@
 # Retrieval-Augmented Generation (RAG) System
 
-This project implements an advanced **Retrieval-Augmented Generation (RAG)** framework with **multimodal processing**, leveraging **Hugging Face** models and modern AI techniques.
-
-The system supports:
+What you Will see:
 - **Basic RAG**: Simple PDF ingestion, Hugging Face model integration, and query handling.
 - **Advanced RAG**: Dense Passage Retrieval (DPR), intelligent ranking, and optimized performance.
 - **Multimodal RAG**: Combined text & image understanding using **OpenCLIP** for vision-language tasks.
